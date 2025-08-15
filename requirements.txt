@@ -3,3 +3,4 @@ autogen-ext
 streamlit
 python-dotenv
 googlesearch-python
+tiktoken
