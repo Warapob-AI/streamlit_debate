@@ -1,5 +1,6 @@
 autogen-agentchat
-autogen-ext
+autogen-ext[ollama]
+autogen-ext[openai]”
 streamlit
 python-dotenv
 googlesearch-python
